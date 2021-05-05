@@ -1,0 +1,14 @@
+MID TERM TASK
+This activity is aimed to shed the light on how good you mastered the previous lab
+classes’ activities.
+Today you need to perform EDA on the given dataset:
+1. Take a first look at your data. – 10 points
+2. Handle the irrelevant data. Provide an explanation to why did you decide it’s
+irrelevant. If you believe that your dataset has no irrelevant data skip this task– 10
+points
+3. Handle the missing data. Provide an explanation to why did you use particular
+method – 15 points
+4. Handle the outliers. – 15 points
+5. Visualize and analyze the relationships. Are there some strong patterns? Are
+there any linear relationships? Include all findings to your summary. – 40 points
+Notebook organization and structure – 10 points
